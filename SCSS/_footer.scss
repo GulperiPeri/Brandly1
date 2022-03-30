@@ -1,0 +1,19 @@
+@import "vars";
+
+.footer {
+  margin: 0;
+  min-height: 157px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url("../images/footer-img.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  color: $light;
+
+  /*p {
+    margin: 0;
+    margin: 40px;
+  }*/
+}
